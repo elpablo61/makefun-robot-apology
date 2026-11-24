@@ -1,0 +1,1 @@
+{"description":"Two-line robot confession for the make.fun bounty The Robot Apology","license":"MIT","main":"main.ts","name":"makefun-robot-apology","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
